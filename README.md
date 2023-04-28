@@ -25,7 +25,8 @@ async function loadFacts() {
   const filteredData = data.filter((fact) => fact.category === "society");
   createFactsList(data);
 }
-
+```
+```
 function createFactsList(dataArray) {
   const htmlArr = dataArray.map(
     (fact) => `<li class="fact">
@@ -46,9 +47,9 @@ function createFactsList(dataArray) {
   const html = htmlArr.join("");
   factsList.insertAdjacentHTML("afterbegin", html);
 }
-
-
 ```
+
+
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
