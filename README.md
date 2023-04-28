@@ -1,6 +1,6 @@
 ## Today I Learned Web Application
 
-### In this project I showed my skills in Front-End development.</h3>
+#### In this project I showed my skills in Front-End development.
 
 <img src="/assets/images/application.png">
 
