@@ -1,4 +1,4 @@
-<h1>Today-I-Learned</h1>
+<h1>Today I Learned Web Application</h1>
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 
 <h3>In this project I showed my skills in Front-End development.</h3>
