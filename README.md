@@ -26,7 +26,7 @@ async function loadFacts() {
   createFactsList(data);
 }
 ```
-```
+```javascript
 function createFactsList(dataArray) {
   const htmlArr = dataArray.map(
     (fact) => `<li class="fact">
