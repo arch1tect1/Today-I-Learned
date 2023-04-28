@@ -4,8 +4,8 @@
 
 <img src="/assets/images/application.png">
 
-#### Code sample below
-### Load data from Supabase
+### Code sample below
+#### Load data from Supabase
 ```javascript
 loadFacts();
 
