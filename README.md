@@ -1,6 +1,9 @@
 <h1>Today-I-Learned</h1>
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 
+<h3>Project aims to help people to add interesting info about what they learned daily.</h3>
+<h3>In this project I showed my skills in Front-End development.</h3>
+
 ![Screenshot of a Today I learned Web application.]
 <img src="/assets/images/application.png">
 
@@ -25,9 +28,6 @@ async function loadFacts() {
   createFactsList(data);
 }
 ```
-<h3>Project aims to help people to add interesting info about what they learned daily.</h3>
-</ul><ul>
-<li>In this project I showed my skills in Front-End development.</li>
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
