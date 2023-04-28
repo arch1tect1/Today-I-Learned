@@ -1,6 +1,6 @@
-<h1>Today I Learned Web Application</h1>
+## Today I Learned Web Application
 
-<h3>In this project I showed my skills in Front-End development.</h3>
+### In this project I showed my skills in Front-End development.</h3>
 
 <img src="/assets/images/application.png">
 
