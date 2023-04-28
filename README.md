@@ -25,6 +25,29 @@ async function loadFacts() {
   const filteredData = data.filter((fact) => fact.category === "society");
   createFactsList(data);
 }
+
+function createFactsList(dataArray) {
+  const htmlArr = dataArray.map(
+    (fact) => `<li class="fact">
+    <p>
+      ${fact.text}
+      React is being developed by Meta (formerly Facebook)
+    <a
+      class="source"
+      href="https://opensource.fb.com/"
+      target="_blank"
+      >(Source)</a>
+    </p>
+    <span class="tag" style="background-color: ${
+      CATEGORIES.find((cat) => cat.name === fact.category).color
+    }">${fact.category}</span>    
+    </li>`
+  );
+  const html = htmlArr.join("");
+  factsList.insertAdjacentHTML("afterbegin", html);
+}
+
+
 ```
 </ul><h2>Technologies Used</h2>
 <hr><ul>
