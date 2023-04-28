@@ -4,7 +4,7 @@
 <h1>Today-I-Learned</h1>
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 
-https://ibb.co/fHS3z9N
+![today-i-learned](https://ibb.co/fHS3z9N)
 
 
 
