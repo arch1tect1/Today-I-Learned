@@ -24,7 +24,7 @@ body {
 .header {
   margin-bottom: 40px;
   display: flex;
-  align-items: center; /* vetical alignment */
+  align-items: center; /* vertical alignment */
   justify-content: space-between;
 }
 
