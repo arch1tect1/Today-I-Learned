@@ -2,7 +2,7 @@
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
-(https://ibb.co/fHS3z9N)
+<img src="assets/images/application.png"
 
 
 
