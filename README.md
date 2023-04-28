@@ -1,3 +1,8 @@
+
+
+
+<h1>Today-I-Learned</h1>
+<hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 ### Load data from Supabase
 
 
@@ -21,10 +26,6 @@ async function loadFacts() {
   createFactsList(data);
 }
 ```
-
-
-<h1>Today-I-Learned</h1>
-<hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 <hr><ul>
 <li>Project aims to help people to add interesting info about what they learned daily.</li>
 </ul><ul>
