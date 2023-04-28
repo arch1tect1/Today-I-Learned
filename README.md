@@ -1,3 +1,10 @@
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
 <h1>Today-I-Learned</h1>
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 <hr><ul>
