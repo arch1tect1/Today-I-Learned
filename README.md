@@ -5,7 +5,7 @@
 
 <img src="/assets/images/application.png">
 
-<h5>Code Examples</h5>
+### Code sample below
 ### Load data from Supabase
 ```javascript
 loadFacts();
