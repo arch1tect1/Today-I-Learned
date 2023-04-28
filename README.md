@@ -1,13 +1,8 @@
 <h1>Today-I-Learned</h1>
 <hr><p>"Discover and log your daily learnings with a sleek web application."</p><h2>General Information</h2>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]
+![Screenshot of a Today I learned Web application.]
 <img src="/assets/images/application.png">
-
-assets/images/application.png
-
-
-
 
 ### Load data from Supabase
 ```javascript
@@ -30,8 +25,7 @@ async function loadFacts() {
   createFactsList(data);
 }
 ```
-<hr><ul>
-<li>Project aims to help people to add interesting info about what they learned daily.</li>
+<h3>Project aims to help people to add interesting info about what they learned daily.</h3>
 </ul><ul>
 <li>In this project I showed my skills in Front-End development.</li>
 </ul><h2>Technologies Used</h2>
