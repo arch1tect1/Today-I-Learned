@@ -1,7 +1,9 @@
 https://todayilearnedfact.netlify.app/
 # This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
 
-## Installation
+![myimg](assets/images/application.png)
+
+
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
