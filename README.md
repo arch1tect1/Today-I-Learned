@@ -4,7 +4,7 @@ https://todayilearnedfact.netlify.app/
 
 ![](assets/images/application.png)
 
-##Connect to Supabase database
+## Connect to Supabase database
 
 ```import { createClient } from "@supabase/supabase-js";
 
