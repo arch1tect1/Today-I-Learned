@@ -1,10 +1,10 @@
 https://todayilearnedfact.netlify.app/
 
-### This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
+## This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
 
 ![](assets/images/application.png)
 
-## Connect to Supabase database
+### Connect to Supabase database
 
 ```import { createClient } from "@supabase/supabase-js";
 
