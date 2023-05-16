@@ -1,38 +1,15 @@
 https://todayilearnedfact.netlify.app/
-# This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
 
-![myimg](assets/images/application.png)
+### This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
 
+![](assets/images/application.png)
 
+##Connect to Supabase database
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+```import { createClient } from "@supabase/supabase-js";
 
-```bash
-pip install foobar
-```
+const supabaseUrl = "https://lfkfmypyankkrtcylleo.supabase.co";
+const supabaseKey "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxma2ZteXB5YW5ra3J0Y3lsbGVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE2Njk2NTA0MzAsImV4cCI6MTk4NTIyNjQzMH0.bo4nfasdfsAIcqahzmAqtzHOqsrmY5cdBv684eOY5FI";
+const supabase = createClient(supabaseUrl, supabaseKey);
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+export default supabase;
