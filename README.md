@@ -1,7 +1,5 @@
 https://todayilearnedfact.netlify.app/
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+# This project is made to show my skills in Front-End development using HTML, CSS, JS, React.
 
 ## Installation
 
